@@ -3,7 +3,7 @@
   "version": "3.0.4",
   "description": "Cordova implementation of iOS Background Fetch API",
   "cordova": {
-    "id": "cordova-plugin-background-fetch",
+    "id": "hnz-cordova-plugin-background-fetch",
     "platforms": [
       "ios"
     ]
